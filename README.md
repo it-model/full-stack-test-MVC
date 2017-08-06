@@ -3,7 +3,9 @@
 ### Prazo: dd/mm/aaaa
 ##### *Antes de iniciar o projeto, informe o prazo para a conclusão, com uma PR no branch master.
 
-## Criar um CRUD O projeto deverá conter as seguintes telas / funções:
+## Criar um CRUD
+
+O projeto deverá conter as seguintes telas / funções:
 
 - Login (pode ser com um usuário gerado previamente);
 - Cadastro de produto com os seguintes dados:
@@ -21,7 +23,7 @@
 
 ### Requisitos
 
-- Desenvolver no padrâo MVC;
+- Desenvolver no padrão MVC;
 - Utilizar os métodos GET, POST, PUT e DELETE;
 - Utilizar algum framework PHP (Laravel 5+, Yii2, Zend2, etc);
 - Utilizar dependecias (caso necessário) com o composer;
