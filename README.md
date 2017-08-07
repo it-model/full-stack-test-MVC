@@ -1,6 +1,6 @@
-# Teste: Nome do candidato
+# Teste: José Nivaldo da Silva Filho
 
-### Prazo: dd/mm/aaaa
+### Prazo: 11/08/2017
 ##### *Antes de iniciar o projeto, informe o prazo para a conclusão, com uma PR no branch master.
 
 ## Criar um CRUD
